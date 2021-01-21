@@ -1,0 +1,21 @@
+
+body{
+    position: relative;
+}
+
+.header{
+    background-color: #f8f9fa;
+}
+
+.footer {
+    position: fixed;
+    padding: 10px 0;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    background-color: #f8f9fa!important;
+    color: #333;
+    text-align: center;
+}
+
+
